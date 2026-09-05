@@ -1,0 +1,21 @@
+{
+  "name": "Horizon-2026 MMRYV",
+  "short_name": "Horizon-2026",
+  "description": "Horizon-2026 MMRYV — A collection of unforgettable college memories.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#FFF8E8",
+  "background_color": "#FFF8E8",
+  "lang": "en-IN",
+
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
